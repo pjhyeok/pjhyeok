@@ -1,6 +1,6 @@
 ## JinHyeok Park
 
-welcome my github page.
+Welcome to my github page.
 <!--
 **pjhyeok/pjhyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
